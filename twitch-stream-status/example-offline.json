@@ -1,0 +1,11 @@
+object(stdClass)#1 (2) {
+  ["_links"]=>
+  object(stdClass)#2 (2) {
+    ["self"]=>
+    string(45) "https://api.twitch.tv/kraken/streams/yogscast"
+    ["channel"]=>
+    string(46) "https://api.twitch.tv/kraken/channels/yogscast"
+  }
+  ["stream"]=>
+  NULL
+}

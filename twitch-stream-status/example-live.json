@@ -1,0 +1,96 @@
+object(stdClass)#1 (2) {
+  ["_links"]=>
+  object(stdClass)#2 (2) {
+    ["self"]=>
+    string(45) "https://api.twitch.tv/kraken/streams/yogscast"
+    ["channel"]=>
+    string(46) "https://api.twitch.tv/kraken/channels/yogscast"
+  }
+  ["stream"]=>
+  object(stdClass)#3 (6) {
+    ["_id"]=>
+    int(7872700896)
+    ["game"]=>
+    string(9) "Minecraft"
+    ["viewers"]=>
+    int(54499)
+    ["preview"]=>
+    object(stdClass)#4 (4) {
+      ["small"]=>
+      string(69) "http://static-cdn.jtvnw.net/previews-ttv/live_user_yogscast-80x50.jpg"
+      ["medium"]=>
+      string(71) "http://static-cdn.jtvnw.net/previews-ttv/live_user_yogscast-320x200.jpg"
+      ["large"]=>
+      string(71) "http://static-cdn.jtvnw.net/previews-ttv/live_user_yogscast-640x400.jpg"
+      ["template"]=>
+      string(80) "http://static-cdn.jtvnw.net/previews-ttv/live_user_yogscast-{width}x{height}.jpg"
+    }
+    ["_links"]=>
+    object(stdClass)#5 (1) {
+      ["self"]=>
+      string(45) "https://api.twitch.tv/kraken/streams/yogscast"
+    }
+    ["channel"]=>
+    object(stdClass)#6 (19) {
+      ["mature"]=>
+      NULL
+      ["abuse_reported"]=>
+      NULL
+      ["status"]=>
+      string(25) "Yogscast - MoonQuest Live"
+      ["display_name"]=>
+      string(8) "Yogscast"
+      ["game"]=>
+      string(9) "Minecraft"
+      ["delay"]=>
+      int(0)
+      ["_id"]=>
+      int(20786541)
+      ["name"]=>
+      string(8) "yogscast"
+      ["created_at"]=>
+      string(20) "2011-02-27T20:19:01Z"
+      ["updated_at"]=>
+      string(20) "2013-12-16T00:19:43Z"
+      ["logo"]=>
+      string(97) "http://static-cdn.jtvnw.net/jtv_user_pictures/yogscast-profile_image-78ef1130c4fc7492-300x300.png"
+      ["banner"]=>
+      string(104) "http://static-cdn.jtvnw.net/jtv_user_pictures/yogscast-channel_header_image-222acc2354dd7694-640x125.png"
+      ["video_banner"]=>
+      string(105) "http://static-cdn.jtvnw.net/jtv_user_pictures/yogscast-channel_offline_image-7e686622d2338d8a-640x360.png"
+      ["background"]=>
+      string(93) "http://static-cdn.jtvnw.net/jtv_user_pictures/yogscast-background_image-efe690387ef69475.jpeg"
+      ["profile_banner"]=>
+      string(95) "http://static-cdn.jtvnw.net/jtv_user_pictures/yogscast-profile_banner-fd42c5bf9a8caee8-480.jpeg"
+      ["profile_banner_background_color"]=>
+      NULL
+      ["url"]=>
+      string(29) "http://www.twitch.tv/yogscast"
+      ["views"]=>
+      int(20868108)
+      ["_links"]=>
+      object(stdClass)#7 (10) {
+        ["self"]=>
+        string(46) "https://api.twitch.tv/kraken/channels/yogscast"
+        ["follows"]=>
+        string(54) "https://api.twitch.tv/kraken/channels/yogscast/follows"
+        ["commercial"]=>
+        string(57) "https://api.twitch.tv/kraken/channels/yogscast/commercial"
+        ["stream_key"]=>
+        string(57) "https://api.twitch.tv/kraken/channels/yogscast/stream_key"
+        ["chat"]=>
+        string(42) "https://api.twitch.tv/kraken/chat/yogscast"
+        ["features"]=>
+        string(55) "https://api.twitch.tv/kraken/channels/yogscast/features"
+        ["subscriptions"]=>
+        string(60) "https://api.twitch.tv/kraken/channels/yogscast/subscriptions"
+        ["editors"]=>
+        string(54) "https://api.twitch.tv/kraken/channels/yogscast/editors"
+        ["teams"]=>
+        string(52) "https://api.twitch.tv/kraken/channels/yogscast/teams"
+        ["videos"]=>
+        string(53) "https://api.twitch.tv/kraken/channels/yogscast/videos"
+      }
+    }
+  }
+}
