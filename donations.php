@@ -12,7 +12,7 @@ $pubnub = new Pubnub(
 );
 
 $pubnub->subscribe(array(
-	'channel'  => 'humbleyogscast',        ## REQUIRED Channel to Listen
+	'channel'  => 'humbleyogscast_jinglejam',        ## REQUIRED Channel to Listen
 	'callback' => function($message) {  ## REQUIRED Callback With Response
 		echo json_encode($message) . "\n";
 		return true;         ## Keep listening (return false to stop)
